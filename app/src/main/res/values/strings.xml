@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdMute</string>
+    <string name="accessibility_description">Detect YouTube ad controls and manage media volume.</string>
+</resources>
